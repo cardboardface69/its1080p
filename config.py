@@ -9,7 +9,7 @@ BOT_TOKEN = "5609860345:AAE3XIuiOKxSR5Js3W6vRO2-0t6JTldaXhg"
 
 
 
-MONGO_DB_URI = "mongodb+srv://1080pv2:1234@cluster0.kkmuftd.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://zoro:dono@cluster0.vbvafq7.mongodb.net/?retryWrites=true&w=majority"
 INDEX_ID = -1001612459325
 UPLOADS_ID = -1001863513396
 PROGRESS_ID = -1001863513396
