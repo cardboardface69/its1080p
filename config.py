@@ -10,14 +10,20 @@ BOT_TOKEN = "5706217182:AAELnRWjsHatV-yJ5MvNgb7yAz2-QF6EWf8"
 
 
 MONGO_DB_URI = "mongodb+srv://zoro:dono@cluster0.vbvafq7.mongodb.net/?retryWrites=true&w=majority"
-INDEX_ID = -1001788750517
-UPLOADS_ID = -1001749720835
-PROGRESS_ID = -1001892973424
-LINK_ID = -1001816606511
+INDEX_ID = -1001683721228
 
-STATUS_ID = 4
-SCHEDULE_ID = 3
+UPLOADS_ID = -1001679692000
 
-CHANNEL_TITLE = "Airing animes hardsub"
-INDEX_USERNAME = "animext720p_posters"
-UPLOADS_USERNAME = "animext720p_posters"
+PROGRESS_ID = -1001642923224
+
+LINK_ID = -1001878265967
+
+STATUS_ID = 5
+
+SCHEDULE_ID = 4
+
+CHANNEL_TITLE = "Animxt"
+
+INDEX_USERNAME = "Latest_ongoing_airing_anime"
+
+UPLOADS_USERNAME = "Latest_ongoing_airing_anime"
